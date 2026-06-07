@@ -12,6 +12,9 @@ Process:
 
 Requirements:
 - Python 3.12 or above
+- scikit-learn
+- sentence-transformers
+- numpy
 
 How to run the code?
 ---
